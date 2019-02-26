@@ -7,16 +7,16 @@
   
   This python script will give you the ability to manually add or delete a user to IP passive mapping in Cisco FMC.
   
-  VARIABLES to modify
+  VARIABLES
   
 ![image](https://github.com/tekgourou/Cisco-FMC-API-user-context/blob/master/screenshot-variables-to-change.png)  
 
-  Please refer to the following example to add or delete a mapping
+  EXAMPLES
   
-  ADDING a user IP/MAPPING:
+  ADDING a user/ip mapping:
 ![image](https://github.com/tekgourou/Cisco-FMC-API-user-context/blob/master/screenshot-fire-context-add-user-mapping.png)
 
-  DELETING a user IP/MAPPING:
+  DELETING a user/ip mapping:
 ![image](https://github.com/tekgourou/Cisco-FMC-API-user-context/blob/master/screenshot-fire-context-delete-user-mapping.png)
   
   In your FMC you should see the following result :
