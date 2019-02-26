@@ -1,7 +1,5 @@
-
-  AUTHOR
   
-  aargeris@cisco.com, alexandre@argeris.net        
+alexandre@argeris.net        
   
   DESCRIPTION
   
