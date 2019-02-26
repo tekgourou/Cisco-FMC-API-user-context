@@ -1,6 +1,6 @@
 
                   fire-context                          
-     For LAB only, production use at your own risk      
+     For LAB only, for production use at your own risk      
        aargeris@cisco.com, alexandre@argeris.net        
   
   DESCRIPTION
