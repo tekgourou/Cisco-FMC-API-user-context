@@ -12,6 +12,7 @@
 ![image](https://github.com/tekgourou/Cisco-FMC-API-user-context/blob/master/screenshot-variables-to-change.png)  
 
   Please refer to the following example to add or delete a mapping
+  
   ADDING a user IP/MAPPING:
 ![image](https://github.com/tekgourou/Cisco-FMC-API-user-context/blob/master/screenshot-fire-context-add-user-mapping.png)
 
