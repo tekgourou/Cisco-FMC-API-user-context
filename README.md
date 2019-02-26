@@ -9,3 +9,6 @@
 
   EXAMPLE of DELETING a user IP/MAPPING
 ![image](https://github.com/tekgourou/Cisco-FMC-API-user-context/blob/master/screenshot-fire-context-delete-user-mapping.png)
+  
+  EXAMPLE of the result in FMC
+![image](https://github.com/tekgourou/Cisco-FMC-API-user-context/blob/master/screenshot-FMC.png)
