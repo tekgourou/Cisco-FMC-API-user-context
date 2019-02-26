@@ -5,7 +5,7 @@
   
   DESCRIPTION
   
-  This python script will give you the ability to manually add or delete a user to IP passive mapping in Cisco FMC. All now mapping will    be safe in a DB call db_users_fmc.<YOUR-DOMAIN-NAME>.json. 
+  This python script will give you the ability to manually add or delete a user to IP passive mapping in Cisco FMC. All now mapping will    be safe in a DB call db_users_fmc.'<YOUR-DOMAIN-NAME>'.json. 
   
   VARIABLES TO MODIFY BEFORE RUNNING THE SCRIPT
   
