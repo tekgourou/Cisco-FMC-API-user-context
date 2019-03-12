@@ -1,3 +1,5 @@
+# Copyright (C) 2019  Alexandre Argeris
+
 import sys
 import getopt
 import json
